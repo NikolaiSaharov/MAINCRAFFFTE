@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "Y"
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "supermod:ruby_ore"
+    }
+  },
+  "result": {
+    "item": "supermod:ruby_sword"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "tupe": "minecraft:crafting_shapeless",
+  "ingrediants": [
+    {
+      "item": "supermod:amber_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "supermod:amber"
+  }
+}

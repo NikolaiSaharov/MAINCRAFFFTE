@@ -1,0 +1,21 @@
+{
+  "item.supermod.amber": "Янтарь",
+  "item.supermod.fig_amber": "Фиговый Янтарь",
+  "itemGroup.Super tab": "Супер Мод",
+  "block.supermod.amber_block": "Блок Янтаря",
+  "block.supermod.amber_ore": "Руда Янтаря",
+  "block.supermod.deepslate_amber_ore": "Руда из Асфальта Янтаря",
+  "item.supermod.ruby_ore": "Рубин",
+  "item.supermod.fig_ruby": "Фиговый Рубин",
+  "block.supermod.ruby_ore_block": "Рубиновая Руда",
+  "item.supermod.ruby_helmet": "Рубиновая Шлем",
+  "item.supermod.ruby_chestplate": "Рубиновая Нагрудник",
+  "item.supermod.ruby_legs": "Рубиновые Штаны",
+  "item.supermod.ruby_boots": "Рубиновые Ботинки",
+  "item.supermod.ruby_sword": "Рубиновый Меч",
+  "item.supermod.ruby_pickaxe": "Рубиновая Кирка",
+  "item.supermod.sword": "Меч Лорда Демонов",
+  "item.supermod.ruby_hoe": "Рубиновая Мотыга",
+  "item.supermod.ruby_shovel": "Рубиновая Лопата",
+  "item.supermod.ruby_axe": "Рубиновый Топор"
+}
